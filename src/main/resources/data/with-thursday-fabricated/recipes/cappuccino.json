@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "with-thursday-fabricated:empty_cup"
+      },
+      {
+        "item": "with-thursday-fabricated:coffee_flour"
+      },
+      {
+        "item": "with-thursday-fabricated:coffee_flour"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:cappuccino",
+      "count": 1
+    }
+  }

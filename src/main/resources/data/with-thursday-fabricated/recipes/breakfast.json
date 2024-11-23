@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "with-thursday-fabricated:bacon"
+    },
+    {
+      "item": "with-thursday-fabricated:pnn_bread"
+    },
+    {
+      "item": "with-thursday-fabricated:potato_pie"
+    },
+    {
+      "item": "with-thursday-fabricated:thuringia_sausage"
+    },
+    {
+      "item": "with-thursday-fabricated:sun_egg"
+    },
+    {
+      "item": "with-thursday-fabricated:milk_tea"
+    }
+  ],
+  "result": {
+    "item": "with-thursday-fabricated:breakfast",
+    "count": 1
+  }
+}

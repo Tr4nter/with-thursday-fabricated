@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "S  "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "with-thursday-fabricated:cooked_diced_chicken"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "with-thursday-fabricated:flesh_bone",
+    "count": 1
+  }
+}

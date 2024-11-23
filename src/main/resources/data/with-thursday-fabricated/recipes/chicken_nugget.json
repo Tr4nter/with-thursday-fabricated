@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_chicken_breast"
+      },
+      {
+        "item": "with-thursday-fabricated:orleans"
+      },
+      {
+        "item": "with-thursday-fabricated:crumbs"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:chicken_nugget",
+      "count": 2
+    }
+  }

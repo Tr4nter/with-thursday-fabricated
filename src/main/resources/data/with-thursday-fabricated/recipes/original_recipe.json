@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "with-thursday-fabricated:beaten_eggs"
+    },
+    {
+      "item": "with-thursday-fabricated:crumbs"
+    },
+    {
+      "item": "with-thursday-fabricated:cooked_chicken_wings"
+    },
+    {
+      "item": "with-thursday-fabricated:cooked_chicken_breast"
+    },
+    {
+      "item": "with-thursday-fabricated:knife"
+    }
+  ],
+  "result": {
+    "item": "with-thursday-fabricated:original_recipe",
+    "count": 1
+  }
+}

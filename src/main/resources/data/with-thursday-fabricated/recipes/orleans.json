@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "with-thursday-fabricated:crumbs"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:golden_carrot"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:orleans",
+      "count": 6
+    }
+  }

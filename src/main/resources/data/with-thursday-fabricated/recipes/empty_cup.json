@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    " # "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "minecraft:brick"
+    },
+    "S":
+    {
+      "item": "minecraft:paper"
+    }
+  },
+  "result":
+  {
+    "item": "with-thursday-fabricated:empty_cup",
+    "count": 3
+  }
+}

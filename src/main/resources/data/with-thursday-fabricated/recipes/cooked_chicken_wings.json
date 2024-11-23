@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient" : {
+      "item" : "with-thursday-fabricated:chicken_wings"
+    },
+    "result": "with-thursday-fabricated:cooked_chicken_wings",
+    "experience": 0.5,
+    "cookingtime" : 200
+  }

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "with-thursday-fabricated:crumbs"
+      },
+      {
+        "item": "with-thursday-fabricated:orleans"
+      },
+      {
+        "item": "vanillarecipe:cook_squid"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:spicy_squid",
+      "count": 1
+    }
+  }

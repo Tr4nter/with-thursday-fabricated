@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:empty_cup"
+      },
+      {
+        "item": "with-thursday-fabricated:coffee_flour"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:usa_cofe",
+      "count": 1
+    }
+  }

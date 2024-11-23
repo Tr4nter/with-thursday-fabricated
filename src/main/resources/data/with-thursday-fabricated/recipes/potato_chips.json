@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "minecraft:potato"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:potato_chips",
+      "count": 1
+    }
+  }

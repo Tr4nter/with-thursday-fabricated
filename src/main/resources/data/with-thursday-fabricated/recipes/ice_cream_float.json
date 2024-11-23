@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "partyrecipes:finesugar"
+      },
+      {
+        "item": "with-thursday-fabricated:cappuccino"
+      },
+      {
+        "tag": "forge:cofeflour"
+      },
+      {
+        "item": "vanillarecipe:icecream"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:ice_cream_float",
+      "count": 1
+    }
+  }

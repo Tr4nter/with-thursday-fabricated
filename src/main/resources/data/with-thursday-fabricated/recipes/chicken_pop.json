@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "with-thursday-fabricated:orleans"
+      },
+      {
+        "item": "with-thursday-fabricated:crumbs"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_diced_chicken"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_diced_chicken"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_diced_chicken"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_diced_chicken"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_diced_chicken"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:chicken_pop",
+      "count": 1
+    }
+  }

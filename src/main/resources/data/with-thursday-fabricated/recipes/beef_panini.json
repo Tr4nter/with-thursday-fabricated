@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "with-thursday-fabricated:pnn_bread"
+      },
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "with-thursday-fabricated:sun_egg"
+      },
+      {
+        "item": "with-thursday-fabricated:cheese"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:beef_panini",
+      "count": 1
+    }
+  }

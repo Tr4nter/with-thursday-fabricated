@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient" : {
+      "item" : "with-thursday-fabricated:chicken_breast"
+    },
+    "result": "with-thursday-fabricated:cooked_chicken_breast",
+    "experience": 0.5,
+    "cookingtime" : 200
+  }

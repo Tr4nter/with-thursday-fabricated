@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "with-thursday-fabricated:knife"
+      },
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "item": "with-thursday-fabricated:bacon"
+      },
+      {
+        "item": "with-thursday-fabricated:cooked_chicken_breast"
+      },
+      {
+        "item": "with-thursday-fabricated:cheese"
+      },
+      {
+        "item": "with-thursday-fabricated:sun_egg"
+      }
+    ],
+    "result": {
+      "item": "with-thursday-fabricated:bacon_chicken_burger",
+      "count": 1
+    }
+  }
